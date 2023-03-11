@@ -1,0 +1,20 @@
+class program {
+    program () {
+    move();
+     move();
+      move();
+       move();
+        move();
+         move();
+          move();
+           move();
+            move();
+             move();
+              move();
+               move();
+                move();
+                 move();
+        // TODO poner codigo aqui
+        turnoff();
+    }
+}

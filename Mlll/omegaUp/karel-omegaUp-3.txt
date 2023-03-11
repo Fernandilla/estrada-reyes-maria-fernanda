@@ -1,0 +1,23 @@
+class program {
+define turnrigth()
+{
+iterate(3)
+turnleft();
+}
+
+define avanzar()
+{
+
+move();
+turnrigth();
+move();
+turnleft();
+}
+    program () {
+    avanzar();
+    avanzar();
+    avanzar();
+        // TODO poner codigo aqui
+        turnoff();
+    }
+}

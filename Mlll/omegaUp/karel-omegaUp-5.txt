@@ -1,0 +1,13 @@
+class program {
+define moves()
+{
+iterate (10)
+move();
+}
+
+    program () {
+    moves();
+        // TODO poner codigo aqui
+        turnoff();
+    }
+}

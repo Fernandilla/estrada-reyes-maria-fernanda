@@ -1,0 +1,17 @@
+class program 
+{
+void recurciba ()
+{
+if (anyBeepersInBeeperBag)
+{
+putbeeper();
+move();
+recurciba();
+}
+}
+     program(){
+    recurciba();
+        // TODO poner codigo aqui
+        turnoff();
+    }
+}

@@ -1,0 +1,39 @@
+class program {
+void turnrigth()
+{
+turnleft();
+turnleft();
+turnleft();
+}
+
+    program () {
+    turnrigth();
+    move();
+    move();
+    turnleft();
+    move();
+    move();
+     turnleft();
+     move();
+      turnleft();
+      move();
+         turnrigth();  
+         move();
+         pickbeeper();
+         turnleft();
+         turnleft();
+         move();
+         turnleft();
+         move();
+         turnrigth();
+          move();
+         turnrigth(); 
+         move();
+         move();
+          turnrigth(); 
+         move();
+         move();
+        // TODO poner codigo aqui
+        turnoff();
+    }
+}
